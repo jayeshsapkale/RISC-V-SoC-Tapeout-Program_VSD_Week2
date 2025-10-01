@@ -13,7 +13,7 @@ outcome:
 
 ---
 
-## Part 1 – Theory (Conceptual Understanding)
+* [Part 1 – Theory (conceptual understanding](week2/part_1.md)
 
 **References:**  
 - [Fundamentals of SoC Design](https://github.com/hemanthkumardm/SFAL-VSD-SoCJourney/tree/main/11.%20Fundamentals%20of%20SoC%20Design)  
