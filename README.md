@@ -46,7 +46,8 @@ outcome:
 
 ---
 
-## Part 2 – Labs (Hands-on Functional Modelling)
+* [Part 2 – Labs (Hands-on Functional Modelling)](week2_part2.md)
+
 
 **Reference:**  
 - [VSDBabySoC Project Labs](https://github.com/hemanthkumardm/SFAL-VSD-SoCJourney/tree/main/12.%20VSDBabySoC%20Project)
